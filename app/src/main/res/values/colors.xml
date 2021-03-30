@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d1432d</color>
+    <color name="colorPrimaryVariant">#5ac6cc</color>
+    <color name="nightColorPrimaryVariant">#032541</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="warn_color">#FFCA28</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#D12D2D</color>
+    <color name="tagColor">#67D0DD</color>
+    <color name="versi">#224F52</color>
+    <color name="gray">#343839</color>
+    <color name="calendar">#5a1b12</color>
+</resources>
